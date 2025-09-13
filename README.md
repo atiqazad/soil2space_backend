@@ -8,12 +8,12 @@ It is designed as a **template** and will be used in our upcoming game for envir
 
 ## 📂 Current Structure
 
-<pre> ```
-text
+<pre> 
+
 space2soil_backend
 └── nasa_data_fetch
     ├── template.py
-    └── requirements.txt ``` 
+    └── requirements.txt
 </pre>
 
 ## Configure template.py:
