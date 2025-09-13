@@ -9,7 +9,6 @@ It is designed as a **template** and will be used in our upcoming game for envir
 ## 📂 Current Structure
 
 <pre> 
-
 space2soil_backend
 └── nasa_data_fetch
     ├── template.py
