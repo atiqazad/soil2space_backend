@@ -8,7 +8,13 @@ It is designed as a **template** and will be used in our upcoming game for envir
 
 ## 📂 Current Structure
 
-<pre> ```text space2soil_backend/ └── nasa_data_fetch/ ├── template.py # Fetches satellite data via AppEEARS └── requirements.txt # Required Python libraries (currently: requests) ``` </pre>
+<pre> ```
+text
+space2soil_backend
+└── nasa_data_fetch
+    ├── template.py
+    └── requirements.txt ``` 
+</pre>
 
 ## Configure template.py:
 
