@@ -43,3 +43,5 @@ OUTPUT_FORMAT = "CSV"
 - CSV files contain timestamped data for the selected location and product/layer.
 
 - This module will be integrated into the game to provide real-world satellite data for simulation.
+
+#### For full API details and documentation, check out the [AppEEARS API Documentation](https://appeears.earthdatacloud.nasa.gov/api/).
